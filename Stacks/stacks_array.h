@@ -14,7 +14,7 @@ class Stack
 {
     private:
         int top;
-        int A[MAXSIZE];
+        int *A = new int[MAXSIZE];
 
     public:
         Stack();

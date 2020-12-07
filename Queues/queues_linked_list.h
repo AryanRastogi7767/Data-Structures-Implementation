@@ -1,3 +1,10 @@
+/*
+Queue using linked list Implementation --  C++
+Aryan Rastogi
+Implementation Date: 6/12/2020
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+*/
+
 #ifndef __QUEUES_LINKED_LIST__
 #define __QUEUES_LINKED_LIST__
 
